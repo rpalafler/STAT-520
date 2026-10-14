@@ -1,0 +1,6 @@
+# PYTHON INSTALLATIONS
+## Data Processing Libraries
+numpy == 2.2.6
+
+## Jupyter Lab IDE
+jupyterlab
